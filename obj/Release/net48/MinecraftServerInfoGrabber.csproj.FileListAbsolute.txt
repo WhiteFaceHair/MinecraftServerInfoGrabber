@@ -1,0 +1,13 @@
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\bin\Release\net48\MinecraftServerInfoGrabber.exe.config
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\bin\Release\net48\MinecraftServerInfoGrabber.exe
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\bin\Release\net48\MinecraftServerInfoGrabber.pdb
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.Form1.resources
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.csproj.GenerateResource.cache
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.AssemblyInfoInputs.cache
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.AssemblyInfo.cs
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.csproj.Fody.CopyLocal.cache
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.exe
+C:\Users\J\Desktop\MinecraftServerInfoGrabber\obj\Release\net48\MinecraftServerInfoGrabber.pdb
